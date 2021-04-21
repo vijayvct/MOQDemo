@@ -1,0 +1,17 @@
+D:\Demos\NUnitDemos\Loans\Loans\bin\Debug\netcoreapp3.1\Loans.deps.json
+D:\Demos\NUnitDemos\Loans\Loans\bin\Debug\netcoreapp3.1\Loans.dll
+D:\Demos\NUnitDemos\Loans\Loans\bin\Debug\netcoreapp3.1\Loans.pdb
+D:\Demos\NUnitDemos\Loans\Loans\obj\Debug\netcoreapp3.1\Loans.csprojAssemblyReference.cache
+D:\Demos\NUnitDemos\Loans\Loans\obj\Debug\netcoreapp3.1\Loans.AssemblyInfoInputs.cache
+D:\Demos\NUnitDemos\Loans\Loans\obj\Debug\netcoreapp3.1\Loans.AssemblyInfo.cs
+D:\Demos\NUnitDemos\Loans\Loans\obj\Debug\netcoreapp3.1\Loans.csproj.CoreCompileInputs.cache
+D:\Demos\NUnitDemos\Loans\Loans\obj\Debug\netcoreapp3.1\Loans.dll
+D:\Demos\NUnitDemos\Loans\Loans\obj\Debug\netcoreapp3.1\Loans.pdb
+D:\Demos\Imapct\Nunit\MOQDemos\Loans\bin\Debug\netcoreapp3.1\Loans.deps.json
+D:\Demos\Imapct\Nunit\MOQDemos\Loans\bin\Debug\netcoreapp3.1\Loans.dll
+D:\Demos\Imapct\Nunit\MOQDemos\Loans\bin\Debug\netcoreapp3.1\Loans.pdb
+D:\Demos\Imapct\Nunit\MOQDemos\Loans\obj\Debug\netcoreapp3.1\Loans.AssemblyInfoInputs.cache
+D:\Demos\Imapct\Nunit\MOQDemos\Loans\obj\Debug\netcoreapp3.1\Loans.AssemblyInfo.cs
+D:\Demos\Imapct\Nunit\MOQDemos\Loans\obj\Debug\netcoreapp3.1\Loans.csproj.CoreCompileInputs.cache
+D:\Demos\Imapct\Nunit\MOQDemos\Loans\obj\Debug\netcoreapp3.1\Loans.dll
+D:\Demos\Imapct\Nunit\MOQDemos\Loans\obj\Debug\netcoreapp3.1\Loans.pdb
